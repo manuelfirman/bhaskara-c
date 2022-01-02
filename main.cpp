@@ -53,7 +53,7 @@ int main()
             }
             else
             {
-                cout<<"No tiene solucion real mother fucker"<<endl;
+                cout<<"No tiene solucion real"<<endl;
             }
 
         cout<<"Ingrese 1 para calcular Bhaskara"<<endl;
